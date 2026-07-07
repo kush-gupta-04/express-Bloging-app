@@ -21,6 +21,7 @@
   "homepage": "https://github.com/kush-gupta-04/express-Bloging-app#readme",
   "dependencies": {
     "dotenv": "^17.4.2",
+    "express": "^5.2.1",
     "mongoose": "^9.7.4",
     "nodemon": "^3.1.14"
   }
