@@ -1,0 +1,26 @@
+{
+  "name": "blogapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kush-gupta-04/express-Bloging-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kush-gupta-04/express-Bloging-app/issues"
+  },
+  "homepage": "https://github.com/kush-gupta-04/express-Bloging-app#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "mongoose": "^9.7.4"
+  }
+}
